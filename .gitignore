@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packages
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE or editor specific
+.vscode/
+.idea/
+
+# Compiled C extensions
+*.so
+
+# Package files
+*.tar.gz
+*.zip
+
+# Ignore image files (if not needed in the repo)
+*.png
+*.jpg
+*.jpeg
